@@ -2,20 +2,38 @@
 
 ## Vectores de ataques
 
-OS
+OS - Parcheo de sistemas operativos - Protección de Virtual Patching para protección hasta conseguir una ventana de trabajo para aplicar os parches oficiales
 
-Aplicaciones
+Aplicaciones - Parcheo de aplicaciones - Protección de Virtual Patching para protección hasta conseguir una ventana de trabajo para aplicar os parches oficiales
 
-Virtualización/Cloud
+Virtualización/Cloud - Protección de los hosts
 
 Malware - Protección Antimalware en tiempo real y escaneos programados, Protección de Predictive Machine Learning vs Zero Day y Ransomware
 
-Phishing
+Phishing - Protección de AntiSpam perimetral- Protección de AntiSpam interno
 
-Ingeniería Socia
+Ingeniería Social - 
 
-Configuraciones Erróneas
+Configuraciones Erróneas - Mala configuración de un servicio, etc
 
-Certificados
+Certificados - Nivel de seguridad de certificados, Cuales? Renovarlos
 
-##
+## Prioridad 
+
+Active Directory Domain Services - Control de las cuentas - Permisos que se pueden dar - Muchas apps usan autenticación con AD
+
+Servidor de Email - Ataques de SPAM - 
+
+Virtualización - Secuestro de máquinas virtuales dentro de los hosts
+
+Servidores de ficheros - Robo de información 
+
+Servidores de bases de datos - Robo o destrucción de información
+
+Servidores Web - Alterar la información de la web - 
+
+Servidores de AV - Desactivar los antivirus 
+
+MECM - Desplegar software a todos los equipos
+
+
