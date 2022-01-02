@@ -106,3 +106,91 @@ Cambios a las fechas de creación de archivos
 
 Link: : https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon
 
+Comandos: 
+
+## Accesschk 
+
+Permite comprobar los accesos de usuarios y grupos a recursos como:
+
+Ficheros
+
+Directorios
+
+Claves de registro
+
+Objetos globales
+
+Servicios
+
+Link: : https://docs.microsoft.com/es-es/sysinternals/downloads/accesschk
+
+Comandos:
+
+## Logonsessions
+
+Lista sesiones activas y procesos por sesión. Se pueden exportar a un CSV.
+
+Comandos:
+
+Link: : https://docs.microsoft.com/en-us/sysinternals/downloads/logonsessions
+
+## Process Explorer
+
+Muestra archivos y directorios abiertos por proceso
+
+Cuando se ha lanzado un proceso
+
+Si el proceso tiene comunicación por red
+
+Uso de CPU
+
+Uso de memoria
+
+Link: : https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
+
+## Process Monitor
+
+información en tiempo real de:
+
+Registros
+
+Sistema de archivos
+
+Captura de información de los procesos
+
+Captura de información de los servicios
+
+Determina que claves de registros de aplicaciones guardan datos
+
+Logea datos acerca de los eventos
+
+Logeea todas las operaciones durante el arranque
+
+Link: : https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+
+## Sigcheck
+
+Nos permite comprobar si un archivo fué comprometido.
+
+Muestra información de:
+
+Número de versión del fichero
+
+Timestamp
+
+Firma digital
+
+Cadena de certificados
+
+Estado del fichero en Virus Total
+
+Link: : https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck
+
+## Autoruns
+
+Revisar Autoruns
+
+Directorio Startup
+
+Claves de registro
+
