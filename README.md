@@ -194,3 +194,8 @@ Directorio Startup
 
 Claves de registro
 
+## Psexec
+
+
+Comandos: 
+
