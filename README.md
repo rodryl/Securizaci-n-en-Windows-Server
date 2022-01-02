@@ -34,6 +34,20 @@ Servidores Web - Alterar la información de la web -
 
 Servidores de AV - Desactivar los antivirus 
 
-MECM - Desplegar software a todos los equipos
+MECM - Desplegar software/malware a todos los equipos
 
+## Generar estrategias de respuestas a incidentes
 
+## Cumplimiento normativo 
+
+Auditorías
+
+Requerimientos de accesos y privilegios
+
+Protección de datos
+
+Encriptación
+
+Copias de seguridad
+
+## Brechas de seguridad
